@@ -1,0 +1,18 @@
+{
+  "name": "MonBudget by Anas",
+  "short_name": "MonBudget",
+  "description": "Suivi des prélèvements, revenus, épargne et objectifs d'achat.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
